@@ -4,8 +4,10 @@
         width:100%;
     }
 } */
+
 /* Bonus */
-@media screen and (max-width:1160px) {
+
+@media screen and (max-width:1160px){
     .container {
         width: 100%;
     }
@@ -21,7 +23,7 @@
         padding-bottom: 3rem;
     }
     /* Lessons Section */
-    .lessons .col {
+    .lessons .col{
         width: 100%;
     }
    
@@ -38,13 +40,13 @@
         background-color: rgb(21, 21, 21);
         margin-bottom:0rem;
     }
-    .why-us .col-left {
+    .why-us .col-left{
         width: 100%;
     }
     .why-us .text-center{
         padding-top:3rem;
     }
-     .why-us .col-right {
+     .why-us .col-right{
         width:90%;
      }
 }
